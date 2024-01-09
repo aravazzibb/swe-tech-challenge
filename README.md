@@ -6,7 +6,7 @@ Welcome to the Full-Stack Software Engineer Code Challenge! Please follow the in
 
 We would like you to create a full-stack application that displays search results from a database of one million companies. Using filters, the user should be able to find companies that match the search criteria and get its details.
 
-> 👉 N.b.: for all the tasks, consider the following boundary conditions of the companies dataset (link available in the Backend section):
+> 👉 N.b.: for all the tasks, consider the following boundary conditions of the companies dataset (link available in the Back-end section):
 - states are all 50 from US and are used abbreviated
 - number of employees are 4 ranges:
     - "1-10"
