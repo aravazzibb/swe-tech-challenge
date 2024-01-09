@@ -1,5 +1,5 @@
 # SWE Tech Challenge 👨🏽‍💻
-Technical challenge for SWE position at Builderbinder.com
+Technical challenge for SWE position at [Builderbinder.com](https://builderbinder.com/), the construction data powerhouse.
 
 # Overview 🔎
 Welcome to the Full-Stack Software Engineer Code Challenge! Please follow the instructions carefully and complete the tasks outlined below.
@@ -108,7 +108,7 @@ Bonus item: README explaining the architectural decisions, folder structure and 
 - tests suite
 
 ## PART 3: integration and documentation (30m) 🤝
-After finishing PART 1 and 2, you should integrate the back-end into the front-end app and document how to run both apps integrated
+After finishing PART 1 and 2, you should integrate the back-end into the front-end app and document how to run both apps integrated.
 
 ### Evaluation criteria 🧪
 - clarity and completeness of the documentation on running both applications together
