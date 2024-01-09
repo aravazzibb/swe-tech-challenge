@@ -116,4 +116,6 @@ After finishing PART 1 and 2, you should integrate the back-end into the front-e
 ## Submission 📬
 After finishing the challenge, push it to a Github repo and send the link to aravazzi[at]builderbinder.com with the title "SWE Tech Challenge".
 
+Independently of your performance, we will answer you with a complete review of your application.
+
 Good luck! 🤞🍀
